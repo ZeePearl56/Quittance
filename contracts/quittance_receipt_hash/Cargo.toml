@@ -1,5 +1,3 @@
-[workspace]
-
 [package]
 name = "quittance-receipt-hash"
 version = "0.1.0"

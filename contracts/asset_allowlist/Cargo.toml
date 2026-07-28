@@ -1,5 +1,3 @@
-[workspace]
-
 [package]
 name = "asset-allowlist"
 version = "0.1.0"
